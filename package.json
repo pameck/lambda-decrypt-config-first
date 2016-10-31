@@ -1,0 +1,9 @@
+{
+  "name": "serverless-lambda-promise",
+  "version": "1.0.0",
+  "author": "Pam Rucinque",
+  "dependencies": {
+    "aws-sdk": "^2.6.12",
+    "config": "^1.21.0"
+  }
+}
